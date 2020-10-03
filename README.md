@@ -1,9 +1,10 @@
 ### About Me
 
-I'm Jean Flaherty, a software engineer at IHS Markit. I like to make iOS apps📱and do some machine learning 🤖 as a hobby.
+I'm Jean Flaherty, a software engineer at IHS Markit. I like to make iOS apps📱and learn about machine learning 🤖.
 
+* <img height="20" width="20" src="https://avatars0.githubusercontent.com/u/43524216?s=60&v=4"> Started [mobile-use](https://github.com/mobile-use) at the age of 13 with my first iOS app [speed-dail](https://github.com/mobile-use/speed-dial), and later [pechakucha-note](https://github.com/mobile-use/pechakucha-note) and [manual-capture](https://github.com/mobile-use/manual-capture)
 * 🏆 1st place winner of two university programming conference contests: [CS101](https://github.com/kobejean/cs-101-final-project-the-lost-totoro), [CS102](https://github.com/kobejean/cs-102-final-project-cfd)
-* <img height="20" width="20" src="https://avatars0.githubusercontent.com/u/15658638?s=60&amp;v=4"> Contributed `tf.roll` to TensorFlow in [#14953](https://github.com/tensorflow/tensorflow/pull/14953) which was featured in [DeepDream Tutorial](https://www.tensorflow.org/tutorials/generative/deepdream#optional_scaling_up_with_tiles)
+* <img height="20" width="20" src="https://avatars0.githubusercontent.com/u/15658638?s=60&v=4"> Contributed `tf.roll` to TensorFlow in [#14953](https://github.com/tensorflow/tensorflow/pull/14953) which was featured in the [DeepDream Tutorial](https://www.tensorflow.org/tutorials/generative/deepdream#optional_scaling_up_with_tiles)
 * 🦌 Owner/Creator of [svelte-mock](https://kobejean.github.io/svelte-mock/) an open source npm package to help you unit test your svelte components
 
 ### Stats
