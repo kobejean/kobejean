@@ -1,4 +1,5 @@
-### About Me
+Name: Jean Flaherty (フラハティ　仁)
+<!--### About Me
 
 I'm Jean Flaherty, a software engineer at IHS Markit. I like to make iOS apps📱and learn about machine learning 🤖.
 
@@ -17,7 +18,7 @@ I'm Jean Flaherty, a software engineer at IHS Markit. I like to make iOS apps�
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kobejean&hide=&layout=compact" />
 </a>
-
+-->
 <!--
 **kobejean/kobejean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
